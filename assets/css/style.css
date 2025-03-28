@@ -319,7 +319,8 @@ Top Header CSS
   width: 100%;
 }
 .header-contact-info li:last-child {
-  margin-right: 0;
+    margin-right: 0;
+    text-shadow: 0px 23px 1px;
 }
 .header-contact-info li:last-child::before {
   display: none;
